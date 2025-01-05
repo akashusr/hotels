@@ -6,7 +6,7 @@ Welcome to the Hotels Repository for creating Final Assignment data! Thank you f
 To contribute a new hotel, follow these steps:
 
 ### Step 1: Fork the Repository
-1. Navigate to the [Hotels Repository](https://github.com/akashusr/hotels).
+1. Navigate to the [Hotels Repository](https://github.com/akashusr/hotels/fork).
 2. Click the **Fork** button at the top right to create a copy of the repository in your GitHub account.
 
 ### Step 2: Clone Your Forked Repository
