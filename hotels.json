@@ -1,0 +1,454 @@
+[
+    {
+        "name": "Hotel Sunshine",
+        "location": "Los Angeles, California, USA",
+        "description": "Experience unparalleled comfort and convenience at Hotel Sunshine, nestled in the vibrant heart of Los Angeles. Enjoy spacious rooms equipped with modern amenities, complimentary high-speed Wi-Fi, and stunning city views. Our dedicated staff ensures a memorable stay with personalized services and easy access to local attractions.",
+        "owner": "John Doe",
+        "pricePerNight": "120",
+        "totalGuests": 9,
+        "totalBeds": 6,
+        "totalRooms": 7,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Seaside Vista",
+        "location": "Miami, Florida, USA",
+        "description": "Seaside Vista offers a luxurious beachfront experience in Miami with breathtaking ocean views. Each room features elegant décor, private balconies, and state-of-the-art facilities. Indulge in gourmet dining, relax by the infinity pool, and take advantage of our exclusive spa and fitness center to rejuvenate your senses.",
+        "owner": "Jane Smith",
+        "pricePerNight": "180",
+        "totalGuests": 16,
+        "totalBeds": 11,
+        "totalRooms": 14,
+        "availableRooms": 6,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://plus.unsplash.com/premium_photo-1687960116497-0dc41e1808a2?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1675745329378-5573c360f69f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1562790351-d273a961e0e9?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "name": "Mountain Retreat",
+        "location": "Denver, Colorado, USA",
+        "description": "Mountain Retreat in Denver provides cozy cabins situated near the scenic slopes. Enjoy rustic charm combined with modern comforts, including fully equipped kitchens, fireplaces, and panoramic mountain views. Perfect for outdoor enthusiasts, our location offers easy access to hiking trails, skiing, and nature explorations.",
+        "owner": "Mike Johnson",
+        "pricePerNight": "200",
+        "totalGuests": 12,
+        "totalBeds": 7,
+        "totalRooms": 8,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1454388683759-ee76c15fee26?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1564501049412-61c2a3083791?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1561501878-aabd62634533?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Urban Oasis",
+        "location": "New York City, New York, USA",
+        "description": "Urban Oasis is a high-rise hotel in downtown New York, featuring contemporary design and luxurious amenities. Guests can enjoy spacious suites with floor-to-ceiling windows, world-class dining options, a rooftop lounge with skyline views, and a state-of-the-art fitness center. Our prime location offers seamless access to the city's iconic landmarks and vibrant nightlife.",
+        "owner": "Sarah Lee",
+        "pricePerNight": "250",
+        "totalGuests": 18,
+        "totalBeds": 12,
+        "totalRooms": 15,
+        "availableRooms": 10,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1568084680786-a84f91d1153c?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1562133567-b6a0a9c7e6eb?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1526913621366-a4583840d736?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "name": "Forest Haven",
+        "location": "Seattle, Washington, USA",
+        "description": "Forest Haven in Seattle is surrounded by lush greenery, providing a tranquil retreat amidst nature. Our eco-friendly hotel boasts elegantly furnished rooms, organic dining options, and serene outdoor spaces. Enjoy walking trails, a rejuvenating spa, and activities that connect you with the natural beauty of the Pacific Northwest.",
+        "owner": "Emily Brown",
+        "pricePerNight": "130",
+        "totalGuests": 10,
+        "totalBeds": 6,
+        "totalRooms": 7,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1732038330792-87e6dfeded6f?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1587985064135-0366536eab42?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1524932563317-9962c267d8bd?q=80&w=1864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Desert Mirage",
+        "location": "Phoenix, Arizona, USA",
+        "description": "Desert Mirage in Phoenix is an oasis in the middle of the desert, offering serene accommodations with stunning desert landscapes. Each room is designed for ultimate relaxation, featuring modern amenities and private patios. Guests can enjoy our outdoor pool, desert tours, and exclusive wellness programs tailored to enhance your desert getaway.",
+        "owner": "Michael Green",
+        "pricePerNight": "90",
+        "totalGuests": 8,
+        "totalBeds": 5,
+        "totalRooms": 6,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1732038330792-87e6dfeded6f?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1675745329954-9639d3b74bbf?q=80&w=2335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1711111038517-f5d61fe63008?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "name": "Historic Inn",
+        "location": "Boston, Massachusetts, USA",
+        "description": "Historic Inn in Boston blends classic architecture with modern comfort, offering guests a unique stay in a city rich with history. Our elegantly appointed rooms feature antique furnishings, contemporary amenities, and personalized service. Explore nearby historical sites, enjoy fine dining, and experience the vibrant culture that Boston is renowned for.",
+        "owner": "Brenda Wilson",
+        "pricePerNight": "150",
+        "totalGuests": 17,
+        "totalBeds": 12,
+        "totalRooms": 18,
+        "availableRooms": 9,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1455587734955-081b22074882?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1657349226767-66c983d7df39?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1614451153800-c141e95b9054?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1564574685150-74a84d02d695?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1564574662330-73fb2940ff5d?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Coastal Breeze",
+        "location": "San Diego, California, USA",
+        "description": "Coastal Breeze in San Diego showcases minimalist design paired with the refreshing ocean breeze. Our rooms offer open layouts, natural light, and eco-friendly amenities. Relax on our beachside deck, dine at our seaside restaurant, and take advantage of our wellness center for a perfect blend of relaxation and activity.",
+        "owner": "Steven Clarke",
+        "pricePerNight": "140",
+        "totalGuests": 14,
+        "totalBeds": 9,
+        "totalRooms": 10,
+        "availableRooms": 7,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://plus.unsplash.com/premium_photo-1678297270385-ad5067126607?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1663659508428-9e1a9ce517d1?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1657349227800-a09220ee7ec8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1572947650440-e8a97ef053b2?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "name": "Country Comfort",
+        "location": "Nashville, Tennessee, USA",
+        "description": "Country Comfort in Nashville embodies southern hospitality at its finest. Enjoy spacious rooms with rustic charm, modern amenities, and scenic views of the surrounding landscape. Our hotel features a country-style restaurant, outdoor lounges, and easy access to Nashville's renowned music venues and cultural attractions.",
+        "owner": "Terry Matthews",
+        "pricePerNight": "110",
+        "totalGuests": 9,
+        "totalBeds": 5,
+        "totalRooms": 6,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1587874522487-fe10e954d035?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1592229505726-ca121723b8ef?q=80&w=2940&auto=format&fit=crop",
+            "https://plus.unsplash.com/premium_photo-1661964225206-fd5d445a6edd?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1663659511138-fdfa5a9a245b?q=80&w=2952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1678286769656-009c133e6f89?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Royal Palace",
+        "location": "Chicago, Illinois, USA",
+        "description": "Royal Palace in Chicago offers a luxury experience with stunning skyline views. Our opulent suites are designed with elegance and sophistication, featuring premium amenities, private balconies, and personalized concierge services. Indulge in our fine dining options, rooftop bar, and exclusive spa to fully embrace the grandeur of Chicago.",
+        "owner": "Lisa Torres",
+        "pricePerNight": "300",
+        "totalGuests": 20,
+        "totalBeds": 14,
+        "totalRooms": 17,
+        "availableRooms": 9,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1713892042912-63f4a516e179?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1713892057666-f06967afa35f?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1713892086528-1149a142e386?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1678286770016-6306ad61df9b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "name": "Lake View Lodge",
+        "location": "Minneapolis, Minnesota, USA",
+        "description": "Lake View Lodge in Minneapolis provides a tranquil setting by the lake, perfect for relaxation and outdoor activities. Our comfortable rooms offer beautiful lake views, modern conveniences, and access to recreational facilities such as kayaking, fishing, and lakeside trails. Enjoy our cozy lounge areas and friendly service for a peaceful stay.",
+        "owner": "Greg White",
+        "pricePerNight": "85",
+        "totalGuests": 5,
+        "totalBeds": 5,
+        "totalRooms": 6,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1551989870-ed6d3f65ac7a?q=80&w=2856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "gallery": [
+            "https://plus.unsplash.com/premium_photo-1687862745564-595b06daf5a3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1602002418816-5c0aeef426aa?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1602002418082-a4443e081dd1?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Cityscape Hotel",
+        "location": "Atlanta, Georgia, USA",
+        "description": "Cityscape Hotel in Atlanta features modern interiors with expansive city skyline views. Each room is equipped with the latest technology, stylish furnishings, and spacious layouts. Guests can enjoy our rooftop pool, contemporary restaurant, and fitness center, all while being conveniently located near Atlanta's top attractions and business districts.",
+        "owner": "Samantha King",
+        "pricePerNight": "190",
+        "totalGuests": 15,
+        "totalBeds": 9,
+        "totalRooms": 12,
+        "availableRooms": 6,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://plus.unsplash.com/premium_photo-1687960116741-d3a1468fdec1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1577791465485-b80039b4d69a?q=80&w=2940&auto=format&fit=crop",
+            "https://plus.unsplash.com/premium_photo-1687996107399-9b68475e365c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1687995673084-49c2c2a7d828?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "name": "Tropical Escape",
+        "location": "Honolulu, Hawaii, USA",
+        "description": "Tropical Escape in Honolulu immerses guests in island vibes with stunning tropical cocktails and vibrant décor. Our rooms offer panoramic ocean views, luxurious amenities, and direct beach access. Relax in our lush gardens, dine at our tropical-themed restaurant, and participate in cultural activities that celebrate the spirit of Hawaii.",
+        "owner": "Anna Brown",
+        "pricePerNight": "250",
+        "totalGuests": 11,
+        "totalBeds": 5,
+        "totalRooms": 8,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1663659507841-9cc4db16ada9?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "gallery": [
+            "https://plus.unsplash.com/premium_photo-1687995673113-865539d3b21d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1663659506036-b646cf3e6aed?q=80&w=2570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1663659511705-5529497429f5?q=80&w=2785&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1663659509057-ca42df076bac?q=80&w=2701&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Garden Inn",
+        "location": "Portland, Oregon, USA",
+        "description": "Garden Inn in Portland is an eco-friendly hotel featuring a beautiful rooftop garden. Our sustainably designed rooms provide comfort and style, with green amenities and modern facilities. Guests can enjoy our organic dining options, participate in gardening workshops, and explore Portland's renowned parks and cultural landmarks from our convenient location.",
+        "owner": "Chris Carpenter",
+        "pricePerNight": "100",
+        "totalGuests": 8,
+        "totalBeds": 5,
+        "totalRooms": 7,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://plus.unsplash.com/premium_photo-1663089331117-b4176fef4c9a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1663126634394-427767eca961?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1663091114903-b5e3c56160d2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "name": "Harbor Lights",
+        "location": "San Francisco, California, USA",
+        "description": "Harbor Lights in San Francisco offers panoramic views of the bay, combining luxury with stunning scenery. Our elegant rooms feature floor-to-ceiling windows, private balconies, and top-of-the-line amenities. Indulge in gourmet dining, relax in our waterfront lounge, and take advantage of our prime location for exploring the best of San Francisco's attractions.",
+        "owner": "Kevin Huang",
+        "pricePerNight": "220",
+        "totalGuests": 19,
+        "totalBeds": 10,
+        "totalRooms": 16,
+        "availableRooms": 8,
+        "thumbNailUrl": "https://plus.unsplash.com/premium_photo-1663089261911-65d0c8f4f911?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "gallery": [
+            "https://plus.unsplash.com/premium_photo-1663089324791-0dd5630b63da?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=2940&auto=format&fit=crop",
+            "https://plus.unsplash.com/premium_photo-1663089259312-55752271767e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Island Retreat",
+        "location": "Key West, Florida, USA",
+        "description": "Island Retreat in Key West presents private bungalows by the sea, perfect for a secluded and romantic getaway. Each bungalow is uniquely decorated with coastal themes, offering modern comforts and direct beach access. Enjoy our beachfront dining, private pools, and personalized services that cater to your every need in the tropical paradise of Key West.",
+        "owner": "Donna Best",
+        "pricePerNight": "280",
+        "totalGuests": 11,
+        "totalBeds": 7,
+        "totalRooms": 9,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://plus.unsplash.com/premium_photo-1663089369141-c6523c936ccb?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1586611292717-f828b167408c?q=80&w=2940&auto=format&fit=crop",
+            "https://plus.unsplash.com/premium_photo-1663093806285-d905ca96c661?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=2940&auto=format&fit=crop",
+            "https://plus.unsplash.com/premium_photo-1663091124365-f245f7065176?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "676ec07dc97b60ce829b52ac"
+        },
+        "name": "Snowy Peaks Lodge",
+        "location": "Aspen, Colorado, USA",
+        "description": "Snowy Peaks Lodge in Aspen is a ski-in, ski-out luxury lodge that caters to winter enthusiasts. Our spacious rooms offer cozy fireplaces, mountain views, and premium amenities. Guests can enjoy direct access to the slopes, unwind in our après-ski lounge, and take advantage of our comprehensive wellness facilities for a perfect alpine retreat.",
+        "owner": "Megan Hill",
+        "pricePerNight": "300",
+        "totalGuests": 14,
+        "totalBeds": 8,
+        "totalRooms": 9,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1696438553076-6be04c8120a2?q=80&w=2788&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1707684871667-b8d28ca257dc?q=80&w=2864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1610641818989-c2051b5e2cfd?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Downtown Suites",
+        "location": "Dallas, Texas, USA",
+        "description": "Downtown Suites in Dallas features contemporary suites situated in the bustling business district. Each suite is designed with modern aesthetics, spacious layouts, and top-tier amenities. Enjoy our on-site dining options, fitness center, and easy access to Dallas's premier shopping, dining, and entertainment venues for a dynamic urban experience.",
+        "owner": "Peter Adams",
+        "pricePerNight": "170",
+        "totalGuests": 20,
+        "totalBeds": 12,
+        "totalRooms": 17,
+        "availableRooms": 8,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1707065863445-505144600d12?q=80&w=2419&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1633255439796-127d62c9283b?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1445991842772-097fea258e7b?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "name": "Riverfront Stay",
+        "location": "New Orleans, Louisiana, USA",
+        "description": "Riverfront Stay in New Orleans captures the essence of the French Quarter's historic charm. Our elegant rooms combine traditional architecture with modern luxury, featuring balconies overlooking the Mississippi River. Guests can enjoy authentic Creole cuisine at our restaurant, live jazz performances, and easy access to the city's most iconic cultural attractions and vibrant nightlife.",
+        "owner": "George Rogers",
+        "pricePerNight": "160",
+        "totalGuests": 9,
+        "totalBeds": 6,
+        "totalRooms": 9,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1722299548097-d25f4440879f?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1650531220377-d02f0411e31a?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1558976825-6b1b03a03719?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1593981551608-e2faa3126833?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1558211583-d26f610c1eb1?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "Grand Peaks Hotel",
+        "location": "Salt Lake City, Utah, USA",
+        "description": "Grand Peaks Hotel in Salt Lake City offers luxurious accommodations with stunning mountain vistas. Our resort features well-appointed rooms with panoramic views, a world-class spa, and expert concierge service for planning outdoor adventures. Enjoy seasonal farm-to-table dining, access to premier hiking and skiing trails, and our exclusive mountain lodge experience year-round.",
+        "owner": "Carol Smith",
+        "pricePerNight": "210",
+        "totalGuests": 10,
+        "totalBeds": 6,
+        "totalRooms": 7,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1689605542182-b8381201b969?q=80&w=2144&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1576801582643-c4e3d33efd2e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1586375300773-8384e3e4916f?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1534612899740-55c821a90129?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1682285212027-6af0d0f70e07?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": [
+            "Beach access",
+            "Free Parking",
+            "Free Wi-Fi",
+            "Fitness Center"
+        ]
+    },
+    {
+        "name": "Sunset Resort",
+        "location": "Tampa, Florida, USA",
+        "description": "Sunset Resort in Tampa provides an unforgettable coastal experience with breathtaking views of the bay. Our resort offers sophisticated rooms with private balconies, multiple infinity pools, and a private beach area. Guests can indulge in fresh seafood at our waterfront restaurant, enjoy water sports activities, and witness spectacular sunsets from our rooftop lounge.",
+        "owner": "David Garner",
+        "pricePerNight": "135",
+        "totalGuests": 18,
+        "totalBeds": 12,
+        "totalRooms": 14,
+        "availableRooms": 7,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://plus.unsplash.com/premium_photo-1682285210821-5d1b5a406b97?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1681752588786-96a6c6eb4693?q=80&w=2797&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1681241424895-98813799944f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1678297270523-8775c817d0b3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    }
+]
