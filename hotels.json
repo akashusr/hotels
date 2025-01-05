@@ -19,6 +19,187 @@
         "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
     },
     {
+        "name": "Seaside Retreat",
+        "location": "Miami, Florida, USA",
+        "description": "Relax in style at Seaside Retreat, offering panoramic ocean views and top-tier amenities. Unwind in elegantly furnished suites, savor gourmet dining, and enjoy direct beach access.",
+        "owner": "Emily Smith",
+        "pricePerNight": "200",
+        "totalGuests": 12,
+        "totalBeds": 8,
+        "totalRooms": 10,
+        "availableRooms": 4,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Ocean view", "Free parking", "Swimming Pool"]
+    },
+    {
+        "name": "Mountain View Lodge",
+        "location": "Denver, Colorado, USA",
+        "description": "Discover serenity and adventure at Mountain View Lodge. Enjoy rustic charm combined with modern comforts, situated in the scenic Rockies.",
+        "owner": "James Peterson",
+        "pricePerNight": "150",
+        "totalGuests": 8,
+        "totalBeds": 5,
+        "totalRooms": 6,
+        "availableRooms": 3,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Hiking trails", "Free Wi-Fi", "Pet-friendly"]
+    },
+    {
+        "name": "Urban Oasis Hotel",
+        "location": "New York City, New York, USA",
+        "description": "Stay in the heart of the city at Urban Oasis Hotel, offering modern luxury and easy access to iconic landmarks and vibrant nightlife.",
+        "owner": "Sarah Johnson",
+        "pricePerNight": "250",
+        "totalGuests": 15,
+        "totalBeds": 10,
+        "totalRooms": 12,
+        "availableRooms": 6,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["City view", "Rooftop bar", "Fitness Center"]
+    },
+    {
+        "name": "Lakeside Inn",
+        "location": "Lake Tahoe, Nevada, USA",
+        "description": "Embrace tranquility and breathtaking lake views at Lakeside Inn. Perfect for a romantic getaway or a family vacation.",
+        "owner": "Robert Brown",
+        "pricePerNight": "175",
+        "totalGuests": 10,
+        "totalBeds": 7,
+        "totalRooms": 8,
+        "availableRooms": 2,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Lake access", "Boat rentals", "Free breakfast"]
+    },
+    {
+        "name": "The Royal Palace",
+        "location": "London, United Kingdom",
+        "description": "Experience royal luxury at The Royal Palace. Located near Buckingham Palace, this hotel combines classic elegance with modern comfort.",
+        "owner": "William King",
+        "pricePerNight": "300",
+        "totalGuests": 20,
+        "totalBeds": 12,
+        "totalRooms": 15,
+        "availableRooms": 10,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1582719508462-3a4debbd1f2e?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1582719508462-3a4debbd1f2e?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1611599531953-2d07a9900f01?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1600047502692-5f2695a20614?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Royal Suite", "Afternoon Tea", "Concierge Service"]
+    },
+    {
+        "name": "Desert Mirage",
+        "location": "Phoenix, Arizona, USA",
+        "description": "Escape to Desert Mirage, a luxurious oasis in the heart of the Arizona desert. Featuring spa services and panoramic sunset views.",
+        "owner": "Martha Stewart",
+        "pricePerNight": "220",
+        "totalGuests": 14,
+        "totalBeds": 9,
+        "totalRooms": 10,
+        "availableRooms": 4,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1543292267-94d658ae07fb?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1543292267-94d658ae07fb?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1518459031867-a89b944bffe4?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1600047502692-5f2695a20614?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Desert Spa", "Sunset Terrace", "Private Cabanas"]
+    },
+    {
+        "name": "Parisian Elegance",
+        "location": "Paris, France",
+        "description": "Indulge in timeless charm at Parisian Elegance. A boutique hotel steps from the Eiffel Tower, offering romantic suites and world-class dining.",
+        "owner": "Isabelle Dupont",
+        "pricePerNight": "280",
+        "totalGuests": 18,
+        "totalBeds": 10,
+        "totalRooms": 12,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1515515679513-6a4d7d1d6f61?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1534595038511-9f219fe0c979?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Eiffel Tower View", "Wine Cellar", "French Cuisine"]
+    },
+    {
+        "name": "Tokyo Zen Garden",
+        "location": "Tokyo, Japan",
+        "description": "Immerse yourself in tranquility at Tokyo Zen Garden. This serene hotel offers minimalist design, private tea ceremonies, and easy access to Shibuya.",
+        "owner": "Hiroshi Tanaka",
+        "pricePerNight": "260",
+        "totalGuests": 16,
+        "totalBeds": 8,
+        "totalRooms": 10,
+        "availableRooms": 7,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1525286116112-b59af11adad1?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1519183071298-a2962de96b09?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Zen Garden", "Tea Ceremony Room", "Hot Spring Access"]
+    },
+    {
+        "name": "Alpine Escape",
+        "location": "Zurich, Switzerland",
+        "description": "Nestled among the Swiss Alps, Alpine Escape offers luxury chalets, world-class skiing, and cozy fireplaces.",
+        "owner": "Lukas Meyer",
+        "pricePerNight": "320",
+        "totalGuests": 12,
+        "totalBeds": 6,
+        "totalRooms": 8,
+        "availableRooms": 2,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1516574928993-866acd023a9c?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1516574928993-866acd023a9c?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1526934082846-7e8a5054940f?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1573496547311-675fc5d0c48b?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Ski In/Ski Out", "Chalet Service", "Mountain Views"]
+    },
+    {
+        "name": "Hotel Sunshine",
+        "location": "Los Angeles, California, USA",
+        "description": "Experience unparalleled comfort and convenience at Hotel Sunshine, nestled in the vibrant heart of Los Angeles. Enjoy spacious rooms equipped with modern amenities, complimentary high-speed Wi-Fi, and stunning city views. Our dedicated staff ensures a memorable stay with personalized services and easy access to local attractions.",
+        "owner": "John Doe",
+        "pricePerNight": "120",
+        "totalGuests": 9,
+        "totalBeds": 6,
+        "totalRooms": 7,
+        "availableRooms": 5,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2940&auto=format&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?q=80&w=2940&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=2940&auto=format&fit=crop"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
         "name": "Seaside Vista",
         "location": "Miami, Florida, USA",
         "description": "Seaside Vista offers a luxurious beachfront experience in Miami with breathtaking ocean views. Each room features elegant décor, private balconies, and state-of-the-art facilities. Indulge in gourmet dining, relax by the infinity pool, and take advantage of our exclusive spa and fitness center to rejuvenate your senses.",
