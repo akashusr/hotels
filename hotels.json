@@ -450,5 +450,119 @@
             "https://plus.unsplash.com/premium_photo-1678297270523-8775c817d0b3?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         ],
         "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center"]
+    },
+    {
+        "name": "THE WAY Dhaka",
+        "location": "Gulshan 2, Dhaka City 1212 Bangladesh",
+        "description": "THE WAY Dhaka is a beautiful 5 star upscale boutique hotel located in the prime diplomatic and business district of Dhaka city. The property houses thirty-eight beautifully appointed rooms and two suites and come with free WiFi, in-room electronic safe, 42\" SMART LED TV, rain shower, 24 hour room service, one specialty restaurant, two cafes, an infinity swimming pool, gym, sauna, steam room.",
+        "owner": "MD Mehedi Hasan Talha",
+        "pricePerNight": "24",
+        "totalGuests": 12,
+        "totalBeds": 8,
+        "totalRooms": 8,
+        "availableRooms": 4,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1643913592251-3f256e90ec0b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1621626806480-53591486f446?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1617527042202-e588d3decc60?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1611596189625-00250acd385c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1643913590311-e92892c2f611?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Fitness Center", "Private pool"]
+    },
+    {
+        "name": "Sea Pearl Beach Resort & Spa Cox's Bazar",
+        "location": "Jaliapalong, Cox's Bazar 4750 Bangladesh",
+        "description": "Located on world's longest undivided coastline - Cox's Bazar. > Largest Eco Resort located on Inani Beach - Excellent coral viewing. > Majority of our rooms have a sea view with a choice of balcony and kitchenettes > Multiple Food & Beverage venues serving local and international Cuisines > Kids Zone, Ice Cream Parlor, Gaming Room, Bars, Pool and Snooker Room, Theatre, Amphitheatre, Spa and Wellness Centre. Tennis court and Badminton Courts, The largest destination for your MICE events. Beach Front area with Beach chairs, the largest pools in the country, boasting one even for the ladies.",
+        "owner": "MD Talha",
+        "pricePerNight": "35",
+        "totalGuests": 54,
+        "totalBeds": 30,
+        "totalRooms": 24,
+        "availableRooms": 18,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1597390871277-666712598c1d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8NSUyMHN0YXIlMjBob3RlbHxlbnwwfHwwfHx8MA%3D%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1678889284808-6913951fc6db?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1647154486025-49b339bd6e94?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1633331009623-10915ddb2d83?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1687816043203-e7aade2d03db?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D"
+        ],
+        "amenities": ["Free Wi-Fi", "Fitness Center", "Private pool", "Free Parking"]
+    },
+    {
+        "name": "Laguna Beach Hotel & Resort",
+        "location": "Kolatoli Road, Plot, Cox's Bazar 4700 Bangladesh",
+        "description": "Laguna Beach Hotel & Resort is a dreamy destination where nature and modern luxury come together to create an unforgettable experience. Nestled by the sea, this resort is renowned for its breathtaking surroundings, the rhythmic waves of the blue ocean, and the golden sands shimmering under the sun. \n \n The resort offers luxurious rooms and villas, each designed to provide stunning ocean views. Guests can indulge in a variety of culinary delights, blending local flavors with international cuisine to satisfy every palate. \n \n Amenities include a private swimming pool, a state-of-the-art fitness center, a rejuvenating spa, and a dedicated play area for children. Spend your days soaking up the sun on the beach or strolling along the shoreline under a canopy of stars. \n \n Laguna Beach Hotel & Resort is not just a place to stay—it's a haven where memories are made, blending relaxation and elegance for a truly unparalleled getaway.",
+        "owner": "MD Mehedi Hasan",
+        "pricePerNight": "29",
+        "totalGuests": 48,
+        "totalBeds": 22,
+        "totalRooms": 16,
+        "availableRooms": 10,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1518745824580-81e60b6097ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+            "https://images.unsplash.com/photo-1535961671600-c244ea895cec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+            "https://images.unsplash.com/photo-1647154486025-49b339bd6e94?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Private pool", "Kitchen"]
+    },
+    {
+        "name": "Hotel Sea Cox",
+        "location": "Cox's Bazar 4700 Bangladesh",
+        "description": "If you’re looking for a guest house in Cox's Bazar, look no further than Hotel Sea Cox. \n \n Rooms at Hotel Sea Cox offer air conditioning providing exceptional comfort and convenience, and guests can go online with free wifi. \n \n A 24 hour front desk and baggage storage are some of the conveniences offered at this guest house. An on-site restaurant will also help to make your stay even more special. If you are driving to Hotel Sea Cox, free parking is available. \n \n While in Cox's Bazar be sure to experience local lobster favorites at Mermaid Cafe or EFC - A Live Fish Restaurant. \n \n If you’re looking for things to do, you can check out Himchori, which is a popular waterfall amongst tourists. \n \n The staff at Hotel Sea Cox looks forward to serving you during your upcoming visit.",
+        "owner": "John Hammond",
+        "pricePerNight": "29",
+        "totalGuests": 62,
+        "totalBeds": 36,
+        "totalRooms": 28,
+        "availableRooms": 22,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1652882860902-7c6b0f88ef23?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1652882861109-570be85c2b92?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fGJlZCUyMHJvb218ZW58MHx8MHx8fDA%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Private pool", "Kitchen", "Free Parking", "Fitness Center"]
+    },
+    {
+        "name": "Praasad Paradise",
+        "location": "Hotel Motel Zone, Cox's Bazar 4700 Bangladesh",
+        "description": "So many travelers make Praasad Paradise their lodge of choice when visiting Cox's Bazar because of their easy access to the beach. Praasad Paradise is a beach front hotel resort providing an ideal mix of value, comfort and convenience, it offers a budget friendly setting with an array of amenities designed for travelers like you. As your “home away from home,” the tower and lodge rooms offer a flat screen TV, air conditioning, and a seating area, and getting online is easy, with free wifi available. Guests have access to a 24 hour front desk, room service, and shops while staying at Praasad Paradise. In addition, Praasad Paradise Hotel offers a pool and four on-site restaurant, which will help make your Cox's Bazar trip additionally gratifying. And, as an added convenience, there is free parking available to guests. While you’re here, be sure to check out their own botanical garden made up of 35 different species of trees. At Praasad Paradise, your comfort and satisfaction come first, and they look forward to welcoming you to Cox's Bazar.",
+        "owner": "Akash Ahmed",
+        "pricePerNight": "53",
+        "totalGuests": 28,
+        "totalBeds": 17,
+        "totalRooms": 10,
+        "availableRooms": 2,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1541971875076-8f970d573be6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1506059612708-99d6c258160e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Private pool", "Fitness Center"]
+    },
+    {
+        "name": "Hotel Coastal Peace",
+        "location": "Block - B, Kolatoli Road, Cox's Bazar 4700 Bangladesh",
+        "description": "Set in Cox's Bazar, 1.1 km from Cox's Bazar Sea Beach, Coastal Peace features views of the city. This 3-star hotel offers room service, a 24-hour front desk and free WiFi. There is a restaurant serving Chinese cuisine, and free private parking is available. \n \n The hotel will provide guests with air-conditioned rooms offering a desk, a safety deposit box, a flat-screen TV, a terrace and a private bathroom with a shower. The units feature a wardrobe. \n \n Cox's Bazar Airport is 5 km away, and the property offers a paid airport shuttle service.",
+        "owner": "Akash Ahmed",
+        "pricePerNight": "40",
+        "totalGuests": 10,
+        "totalBeds": 6,
+        "totalRooms": 4,
+        "availableRooms": 1,
+        "thumbNailUrl": "https://images.unsplash.com/photo-1518558177271-f75b99ebe8fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+        "gallery": [
+            "https://images.unsplash.com/photo-1570213489059-0aac6626cade?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1570214476695-19bd467e6f7a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1468824357306-a439d58ccb1c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D",
+            "https://images.unsplash.com/photo-1535827841776-24afc1e255ac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fDUlMjBzdGFyJTIwaG90ZWx8ZW58MHx8MHx8fDA%3D"
+        ],
+        "amenities": ["Beach access", "Free Wi-Fi", "Private pool"]
     }
 ]
